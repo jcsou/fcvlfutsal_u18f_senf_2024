@@ -22,3 +22,11 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Synchronise
+aws s3 cp dist  s3://www.tes.fcvalduloir.live/fcvlfutsal_u18f_senf_2024/dist --recursive
+
+aws s3 cp public/datas s3://www.tes.fcvalduloir.live/fcvlfutsal_u18f_senf_2024/dist/datas --recursive 
+
+

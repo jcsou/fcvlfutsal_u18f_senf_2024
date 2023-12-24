@@ -1,0 +1,24 @@
+{ "tournoi": { "titre": "Tournoi en salle U18F/SenF", 
+"date": "Vendredi 05/01/2024", 
+"temps_jeu": "Temps de jeu 8 minutes. Rotation toutes les 9 minutes", 
+"lien_reglement": "pdf/01_ReglementTournoi2024.pdf", 
+"lien_ficheequipe": "pdf/02_Reference-Inscriptions2024.pdf", 
+"lien_site": "https://www.tes.fcvalduloir.live/fcvlfutsal_u18f_senf_2024/dist/", 
+"titre_QRcode": "Tournoi En Salle FCVL futsal U18F/SenF 2024" 
+},"lessalles": [
+{"id": "1-GLC",    
+"nomlong": "Gymnase Guy La Croix",    
+"lien": "img/salles/1-GLC-int.png"},  
+{"id": "2-CCVL",
+"nomlong": "Gymnase CC Val du Loir",
+"lien": "img/salles/2-CCVL.png"}
+],"lescategories": [
+{"id": "cat1",
+"categorie_id": "U18F_SenF",
+"nomlong": "U18/Seniors Féminines",
+"texthoraire": "Rdv 19h15 - Début 19h45"},
+{"id": "cat2",
+"categorie_id": "NA",
+"nomlong": " ",
+"texthoraire": " "}
+],"lesequipes": [ {"cat_code": "cat1","categorie_id": "U18F_SenF","poule": "PA","id": "SENFG1","nom": "C. OM. CASTELORIEN","nomCourt": "COC","fanion": "coc.png"},{"cat_code": "cat1","categorie_id": "U18F_SenF","poule": "PA","id": "SENFG2","nom": "CHANGE CS 1","nomCourt": "CHANGE 1","fanion": "change.png"},{"cat_code": "cat1","categorie_id": "U18F_SenF","poule": "PA","id": "SENFG3","nom": "VILLIERS AU BOUIN-2","nomCourt": "VILLIERS 2","fanion": "villiers.png"},{"cat_code": "cat1","categorie_id": "U18F_SenF","poule": "PA","id": "SENFG4","nom": "GF VAL DE SARTHE","nomCourt": "VAL DE SARTHE","fanion": "valdesarthe.png"},{"cat_code": "cat1","categorie_id": "U18F_SenF","poule": "PB","id": "SENFG5","nom": "FC VAL DU LOIR","nomCourt": "FCVL","fanion": "fcvl.png"},{"cat_code": "cat1","categorie_id": "U18F_SenF","poule": "PB","id": "SENFG6","nom": "VILLIERS AU BOUIN-1","nomCourt": "VILLIERS 1","fanion": "villiers.png"},{"cat_code": "cat1","categorie_id": "U18F_SenF","poule": "PB","id": "SENFG7","nom": "CHANGE CS 2","nomCourt": "CHANGE 2","fanion": "change.png"},{"cat_code": "cat1","categorie_id": "U18F_SenF","poule": "PB","id": "SENFG8","nom": "A.S. PAYS DE RACAN","nomCourt": "PAYS DE RACAN","fanion": "paysderacan.png"},{"cat_code": "cat2","categorie_id": "NA","poule": "PA","id": "","nom": "","nomCourt": "","fanion": ""},{"cat_code": "cat2","categorie_id": "NA","poule": "PA","id": "","nom": "","nomCourt": "","fanion": ""},{"cat_code": "cat2","categorie_id": "NA","poule": "PA","id": "","nom": "","nomCourt": "","fanion": ""},{"cat_code": "cat2","categorie_id": "NA","poule": "PA","id": "","nom": "","nomCourt": "","fanion": ""},{"cat_code": "cat2","categorie_id": "NA","poule": "PB","id": "","nom": "","nomCourt": "","fanion": ""},{"cat_code": "cat2","categorie_id": "NA","poule": "PB","id": "","nom": "","nomCourt": "","fanion": ""},{"cat_code": "cat2","categorie_id": "NA","poule": "PB","id": "","nom": "","nomCourt": "","fanion": ""},{"cat_code": "cat2","categorie_id": "NA","poule": "PB","id": "","nom": "","nomCourt": "","fanion": ""} ] }
